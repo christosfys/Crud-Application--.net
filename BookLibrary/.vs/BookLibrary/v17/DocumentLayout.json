@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Christos\\Documents\\Test Applications\\BookLibrary\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{401BCBD2-E413-40F0-9A16-CFF3556BFA23}|BookLibrary\\BookLibrary.csproj|c:\\users\\christos\\documents\\test applications\\booklibrary\\booklibrary\\books.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{401BCBD2-E413-40F0-9A16-CFF3556BFA23}|BookLibrary\\BookLibrary.csproj|solutionrelative:booklibrary\\books.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{401BCBD2-E413-40F0-9A16-CFF3556BFA23}|BookLibrary\\BookLibrary.csproj|C:\\Users\\Christos\\Documents\\Test Applications\\BookLibrary\\booklibrary\\bookdetails.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{401BCBD2-E413-40F0-9A16-CFF3556BFA23}|BookLibrary\\BookLibrary.csproj|solutionrelative:booklibrary\\bookdetails.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{401BCBD2-E413-40F0-9A16-CFF3556BFA23}|BookLibrary\\BookLibrary.csproj|c:\\users\\christos\\documents\\test applications\\booklibrary\\booklibrary\\bookdetails.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{401BCBD2-E413-40F0-9A16-CFF3556BFA23}|BookLibrary\\BookLibrary.csproj|solutionrelative:booklibrary\\bookdetails.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{401BCBD2-E413-40F0-9A16-CFF3556BFA23}|BookLibrary\\BookLibrary.csproj|c:\\users\\christos\\documents\\test applications\\booklibrary\\booklibrary\\books.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{401BCBD2-E413-40F0-9A16-CFF3556BFA23}|BookLibrary\\BookLibrary.csproj|solutionrelative:booklibrary\\books.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{401BCBD2-E413-40F0-9A16-CFF3556BFA23}|BookLibrary\\BookLibrary.csproj|c:\\users\\christos\\documents\\test applications\\booklibrary\\booklibrary\\theme\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{401BCBD2-E413-40F0-9A16-CFF3556BFA23}|BookLibrary\\BookLibrary.csproj|solutionrelative:booklibrary\\theme\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "style.css",
+              "DocumentMoniker": "C:\\Users\\Christos\\Documents\\Test Applications\\BookLibrary\\BookLibrary\\Theme\\style.css",
+              "RelativeDocumentMoniker": "BookLibrary\\Theme\\style.css",
+              "ToolTip": "C:\\Users\\Christos\\Documents\\Test Applications\\BookLibrary\\BookLibrary\\Theme\\style.css",
+              "RelativeToolTip": "BookLibrary\\Theme\\style.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-07-21T15:15:00.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Books.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Christos\\Documents\\Test Applications\\BookLibrary\\BookLibrary\\Books.aspx.cs",
+              "RelativeDocumentMoniker": "BookLibrary\\Books.aspx.cs",
+              "ToolTip": "C:\\Users\\Christos\\Documents\\Test Applications\\BookLibrary\\BookLibrary\\Books.aspx.cs",
+              "RelativeToolTip": "BookLibrary\\Books.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T07:47:21.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Books.aspx",
+              "DocumentMoniker": "C:\\Users\\Christos\\Documents\\Test Applications\\BookLibrary\\BookLibrary\\Books.aspx",
+              "RelativeDocumentMoniker": "BookLibrary\\Books.aspx",
+              "ToolTip": "C:\\Users\\Christos\\Documents\\Test Applications\\BookLibrary\\BookLibrary\\Books.aspx",
+              "RelativeToolTip": "BookLibrary\\Books.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-07-21T07:49:45.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BookDetails.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Christos\\Documents\\Test Applications\\BookLibrary\\BookLibrary\\BookDetails.aspx.cs",
+              "RelativeDocumentMoniker": "BookLibrary\\BookDetails.aspx.cs",
+              "ToolTip": "C:\\Users\\Christos\\Documents\\Test Applications\\BookLibrary\\BookLibrary\\BookDetails.aspx.cs",
+              "RelativeToolTip": "BookLibrary\\BookDetails.aspx.cs",
+              "ViewState": "AgIAAM0AAAAAAAAAAAAcwAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T10:15:39.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookDetails.aspx",
+              "DocumentMoniker": "C:\\Users\\Christos\\Documents\\Test Applications\\BookLibrary\\BookLibrary\\BookDetails.aspx",
+              "RelativeDocumentMoniker": "BookLibrary\\BookDetails.aspx",
+              "ToolTip": "C:\\Users\\Christos\\Documents\\Test Applications\\BookLibrary\\BookLibrary\\BookDetails.aspx",
+              "RelativeToolTip": "BookLibrary\\BookDetails.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-07-18T08:15:08.665Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

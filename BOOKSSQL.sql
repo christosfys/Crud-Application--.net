@@ -1,0 +1,12 @@
+CREATE DATABASE BOOKSDB;
+
+
+
+CREATE TABLE TBooks (
+    ISBN BIGINT PRIMARY KEY, 
+    Title NVARCHAR(255),
+    Author NVARCHAR(255),
+    PublishDate DATETIME,
+    Price DECIMAL(10, 2),
+    Publish BIT 
+);
